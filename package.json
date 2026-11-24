@@ -1,0 +1,17 @@
+
+{
+  "name": "coderwanda-webapp",
+  "version": "1.0.0",
+  "description": "A simple Node.js web application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "mocha"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^11.0.0"
+  }
+}
